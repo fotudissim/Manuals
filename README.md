@@ -1,2 +1,4 @@
 # Manuals
-Recopilaci贸 de manuals 
+## Recopilaci贸 de manuals 
+
+Aquesta recopilaci贸de manuals i eines es troben organitzades per diferents tipus de manuals 胻ils a nivell de programaci贸i eines v脿ries.
