@@ -1,4 +1,5 @@
 # Manuals
-## RecopilaciÃ³ de manuals 
+## Recopilació de manuals 
 
-Aquesta recopilaciÃ³de manuals i eines es troben organitzades per diferents tipus de manuals Ãtils a nivell de programaciÃ³i eines vÃ ries.
+Recopilació dels diferents manuals recopilats per diferents llenguatges de programació i programes útils.
+Obert a requests per introduir més manuals o informació d'utilitat.
